@@ -7,14 +7,14 @@
 
 A Single Page App (SPA) built with React. A place to share projects with employers and fellow developers. It showcases an About Me section, a summary of my dev. skills, a selection of six projects and a contact form.
 
+[See live] (https://luiscabrera77.github.io/react-portfolio)
+
 ![Screenshot](https://github.com/luiscabrera77/react-portfolio/blob/main/public/images/portfolio/portfolio.gif?raw=true)
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -24,6 +24,8 @@ npm install
 npm start and npm run deploy to publish in GitHbub pages
 
 ## License
+
+Shout out to [Rahul Bhatia](https://github.com/rbhatia46) for his the starting point!
 
 MIT License Copyright
 (view most recent version at https://spdx.org/licenses/MIT.html)
@@ -45,15 +47,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.
-
-
-## Contributing
-If you would like to contribute to this project:
-
-**None**
-
-## Tests
-No testing framework
 
 ## Questions
 Find me on Github as: [luiscabrera77](https://github.com/luiscabrera77)
