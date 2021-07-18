@@ -7,7 +7,7 @@
 
 A Single Page App (SPA) built with React. A place to share projects with employers and fellow developers. It showcases an About Me section, a summary of my dev. skills, a selection of six projects and a contact form.
 
-[See live] (https://luiscabrera77.github.io/react-portfolio)
+See live: https://luiscabrera77.github.io/react-portfolio
 
 ![Screenshot](https://github.com/luiscabrera77/react-portfolio/blob/main/public/images/portfolio/portfolio.gif?raw=true)
 
