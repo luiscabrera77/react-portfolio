@@ -96,7 +96,7 @@ let resumeData = {
       {
         "name":"Dokaly",
         "description":"Think a Tinder for Music and Art Covers",
-        "imgurl":"images/portfolio/dokaly.jpeg",
+        "imgurl":"images/portfolio/dokaly.png",
         "git":"https://github.com/luiscabrera77/dokaly21",
         "live":"https://powerful-eyrie-95631.herokuapp.com/"
       },
