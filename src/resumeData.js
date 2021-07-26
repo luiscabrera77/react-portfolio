@@ -94,11 +94,11 @@ let resumeData = {
         "live":"https://brookesemke.github.io/trivia/game.html"
       },
       {
-        "name":"Regex Tutorial",
-        "description":"Not everything is coding. In this tutorial, I explain how to build a RegEx that matches the most common URL structures and skips plain text, email addresses, and numbers (e.g prices or phone numbers):",
-        "imgurl":"images/portfolio/tutorial.png",
-        "git":"https://gist.github.com/luiscabrera77/d4340c0b20b31cb8107690582df7e23d",
-        "live":"https://regexr.com/5uvjv"
+        "name":"Dokaly",
+        "description":"Think a Tinder for Music and Art Covers",
+        "imgurl":"images/portfolio/dokaly.jpeg",
+        "git":"https://github.com/luiscabrera77/dokaly21",
+        "live":"https://powerful-eyrie-95631.herokuapp.com/"
       },
       {
         "name":"YayNayz",
